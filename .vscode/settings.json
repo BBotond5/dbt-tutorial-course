@@ -1,0 +1,4 @@
+{
+  "dbt.powerUser.dbtCommand": "${workspaceFolder}\\venv\\Scripts\\dbt.exe",
+  "dbt.powerUser.pythonPath": "${workspaceFolder}\\venv\\Scripts\\python.exe"
+}
